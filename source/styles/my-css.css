@@ -23,6 +23,8 @@
     animation: myAnim 2s ease 0s infinite normal none;
 }
 
+
+
 @keyframes myAnim {
 
     0%,
@@ -50,4 +52,8 @@
     75% {
         transform: translateX(-6px) rotate(-1.2deg);
     }
+}
+
+.themes-block {
+    background-color: #B8D292;
 }
